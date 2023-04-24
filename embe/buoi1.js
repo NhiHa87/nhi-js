@@ -54,3 +54,4 @@ switch(fruit){
         console.log('bo mau xanh ruot vang cua Nhi');
         break;     
 }
+console.log("hihi")
