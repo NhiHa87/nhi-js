@@ -25,4 +25,3 @@ function Arr(numLength,numMax){
     return numberA;
 }
 console.log(Arr(10,5));
-//Nhi
