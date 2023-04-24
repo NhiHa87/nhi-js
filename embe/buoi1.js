@@ -55,3 +55,4 @@ switch(fruit){
         break;     
 }
 console.log("hihi")
+console.log("hihi1")
