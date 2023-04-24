@@ -128,3 +128,4 @@ function checkR (number){
     
 // }
 // console.log(tong(numbers,10));
+console.log(tong(numbers,10));
