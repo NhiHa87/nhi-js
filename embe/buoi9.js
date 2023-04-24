@@ -11,5 +11,5 @@ function ana(tr1 = '', tr2 = ''){
             return false;
         }
     }   
- 
+  
 console.log(ana('part','crap'));
