@@ -58,6 +58,8 @@ function upto(strs){
   return b;
 }
 console.log(upto('nhihaha'));
+console.log(upto('nhihaha'));
+//
 // var a = 'nhiha';
 // var b = a.split('');
 // b[0] = b[0].toUpperCase();
